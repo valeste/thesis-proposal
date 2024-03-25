@@ -1,5 +1,5 @@
 ---
-title: "Investigation of the somatic cell physiology of a marine tunicate."
+title: "Investigation of the somatic cellular physiology of a marine tunicate."
 subtitle: "Masters Thesis Proposal"
 author: "Celeste Valdivia"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
@@ -32,20 +32,73 @@ This draft is version `r paste0('0.',format(Sys.time(), '%y.%m.%d'))`.
 # Proposal 
 
 ## Introduction
-With recent advances in both oncology and molecular cell biology, there has been a shift towards unifying Darwinian evolution with emerging knowledge of mechanisms of whole genome transformations [@noble_was_2017; @shapiro_no_2019]. It has been posited that genome reorganization events that occur with macromolecular damage, genome chaos, and DNA repair infidelity represent stress-induced adaptive evolutionary strategies that promote cell survival during periods of extreme stress [@liu_genome_2014; @rosenberg_stressinduced_2012; @kultz_molecular_2005; @kultz_evolution_2020]. As such, stress-induced evolution is hypothesized to be a driving factor in the establishment of any animal cell line. Removal from the _in vivo_ context presents animal cells with severe stress that likely induces several methods of genome transformation which then are directionally selected for their ability to proliferate _in vitro_ [@liu_genome_2014]. Utilizing this framework of stress-induced cellular evolution, this project aims towards developing an immortalized cell line from somatic cells of the marine tunicate, _Botryllus schlosseri_. 
+
+- General lack of marine invertebrate cell lines. [@domart-coulon_primary_2022]
+
+- Exception is sponge cell line.
+
+
+Cellular homeostasis acts by maintaining the integrity of the internal environment in the response to environmental fluctuations. If perturbations of the extracellular environment occur at a magnitude or rate beyond the capacity of homeostasis, the cellular stress response is induced. The cellular stress response describes a set of physiological mechanisms associated with rapid generation of phenotypes capable of withstanding extreme stress.  
+
+As such, through an evolutionary lense, this can be refered to as stress-induced evolution
+
+
+Genome reorganization events that occur with macromolecular damage, genome chaos, and DNA repair infidelity are stress-induced adaptive evolutionary strategies that promote cell survival during periods of extreme stress [@liu_genome_2014; @rosenberg_stressinduced_2012; @kultz_molecular_2005; @kultz_evolution_2020].
+
+
+ROUGH OUTLINE:
+
+- talk about homeostasis
+
+-homeostasis different than the cellular stress response
+
+- the cellular stress response involves physiological mechanisms to circumvent cell death by stress-induced evolution
+
+- stress induced evolution applicable at the cell population level,
+
+- advances cell survival through rapid generation of useful phenotypes
+
+- particularly this can occur through dna methylatio, increasdeed mustation rates
+chromoanagenesis, 
+
+ 
+
+
+
+
+
+Removal from the _in vivo_ context presents somatic cells with severe stress that likely induces several methods of genome transformation which then are directionally selected for their ability to proliferate _in vitro_ [@liu_genome_2014]. 
+
+Utilizing this framework of stress-induced cellular evolution, this project aims towards promoting
+
+
+an immortalized cell line from somatic cells of the marine tunicate, _Botryllus schlosseri_.
 
 \vspace{0.1in}
+
+
+
+\vspace{0.1in}
+
 
 _B. schlosseri_ is a cosmopolitan, sessile, colonial species currently found in the shallow, temperate, coastal areas of all continents except Antarctica [@zwahlen_long-term_2022]. Each mature colony of _B. schlosseri_ is composed of genetically identical modules, termed zooids, that are embedded in a gelatinous tunic and share a single vasculature system [@manni_sixty_2019]. _B. schlosseri_ colonies begin life as free-swimming larva that settle and metamorphoses into a single founding oozooid. Through blastogenesis, new blastozooids develop and are organized into a colonial star-shaped system. Over the course of its life, a healthy _B. schlosseri_ colony will undergo weekly blastogenic cycles, where parental zooids are synchronously reabsorbed and replaced with a new set of blastozooids [@ricci_identification_2016; @manni_sixty_2019]. This species of _Botryllus_ is of significant interest as an experimental model system in the fields of cell biology, immunology, and developmental biology due to its tightly regulated blastogenic cycle, close phylogenetic relation to vertebrates, and ease of rearing individuals in a lab setting.
 
 \vspace{0.1in}
 
-Previous work exploring _B. schlosseri_ cell line development isolated primary cell cultures from the epithelial and blood tissue of lab-reared colonies [@rabinowitz_epithelial_2004; @rabinowitz_novo_2011; @rabinowitz_further_2009; @rinkevich_vitro_1993; @rinkevich_initiation_1997]. However, all previous attempts of _B. schlosseri_ primary cultures hit a state of cellular quiescence where cell division ceases approximately 24 to 72 hours post-isolation; ultimately leading to a loss of cell viability after 4 weeks _in vitro_ [@rinkevich_vitro_1993; @rabinowitz_novo_2011; @terzi_cell_2016; @domart-coulon_primary_2022]. Given such limited life span and proliferative capabilities, there is a clear need to elucidate the ideal culturing conditions for primary cultures of this species prior to experimentally invoking mechanisms of stress-induced evolution.
+Previous work exploring _B. schlosseri_ cell line development isolated primary cell cultures from the epithelial and blood tissue of lab-reared colonies [@rabinowitz_epithelial_2004; @rabinowitz_novo_2011; @rabinowitz_further_2009; @rinkevich_vitro_1993; @rinkevich_initiation_1997].
+
+
+However, all previous attempts of _B. schlosseri_ primary cultures hit a state of cellular quiescence where cell division ceases approximately 24 to 72 hours post-isolation; ultimately leading to a loss of cell viability after 4 weeks _in vitro_ [@rinkevich_vitro_1993; @rabinowitz_novo_2011; @terzi_cell_2016; @domart-coulon_primary_2022]. 
+
+
+Given such limited life span and proliferative capabilities, there is a clear need to elucidate the ideal culturing conditions for primary cultures of this species prior to experimentally invoking mechanisms of stress-induced evolution.
 
 ## Objectives
+
+
 The overarching hypothesis is that _in vitro_ cellular immortalization of _B. schlosseri_ is limited by biological constraints that may be overcome through: 1) the optimization of primary culturing methods and 2) stress-induced adaptive evolution of primary cultures. 
 
-## Approach
+## Methods
 
 The first aim, involving the optimization of primary cell culturing methods for _B. schlosseri_, will be addressed by identifying the ideal combination of complete culture media and substrate that most improves cell viability and proliferation. Blood and epithelial cells of _B. schlosseri_ will be isolated using the previously established methods described in @rabinowitz_epithelial_2004, @rabinowitz_vitro_2004, and @rinkevich_vitro_1993. Primary cultures will then be maintained at 15 to 20 °C, in a sterile, humidified cell incubator and grown in tunicate culture medium (TCM),  pH 8.0. TCM will be formulated in-house and is comprised of 12% supplements and antibiotics, 38% artificial seawater, and 50% single strength commercially available liquid media [@rabinowitz_epithelial_2004; @rabinowitz_vitro_2004]. We will then assess the proliferative effects of multiple conditions on primary cultures of _B. schlosseri_. Six culture media will be tested as the single strength liquid media component in the TCM: 1) DMEM with 4500 mg/l D-glucose without Gln; 2) HAM F-12 with Gln; 3) Biotarget-1 without Gln; 4) Fischer's medium without Gln; 6) Leibovitz L-15 with Gln; 7) DCCM-1 without Gln. Three substrates will be tested: 1) Collagen, type VII from rat-tail; 2) Methocel-methylcellulose; 3) Fibronectin (bovine). Three supplemental organic osmolytes will be tested: 1) taurine; 2) betaine; 3) glycine. We will, replace the corresponding amount of NaCl in TCM with up to 50 mM of organic osmolyte supplement. In marine invertebrates, organic osmolytes aid in offsetting ionic stress as well as offer indirect cytoprotective effects such as antioxidation, calcium modulation, and cell membrane stabilization. The listed organic osmolytes were selected as they are most ubiquitously utilized by shallow-water marine invertebrates [@yancey_organic_2005]. We will measure cell growth and viability using the high-throughput assay, ViaLight, which quantifies cellular ATP. Furthermore, transcriptome and proteome dynamics will be evaluated over the course of the transition from _in vivo_ to _in vitro_. Protein and RNA will be sampled daily from primary cultures beginning at day 0 when tissue is first seeded into culture plates, until cessation of cell proliferation or after 1000 cell passages.  
 
@@ -57,15 +110,24 @@ To address aim 2, we will expose primary cultures of _B. schlosseri_ to UV-B irr
 
 As described above for both aim 1 and 2, RNA will be collected and quantified prior to conduction of RNA-seq at the University of Washington, Seattle Superfund Functional Genomics and Bioinformatics Core Facility. Estimation of transcript abundance and differential expression analysis will be conducted using Cufflinks [@trapnell_differential_2012] or DeSeq [@roberts_opportunities_2018] tools. Transcriptomic data will be stored and managed using Roberts Lab owned computing resources at the University of Washington, Seattle. Data generated from RNA-seq experiments will be utilized in targeted quantitative polymerase chain reaction (qPCR) analyses.  Additionally, for both aims, protein will be collected and sent to our collaborators at the University of California, Davis, who will then generate corresponding proteome data. Proteome and transcriptome data will be paired for functional enrichment analysis with Genesis [@sturn_genesis_2002], PANTHER [@mi_panther_2017], KEGG mapper [@kanehisa_kegg_2020], and String [@crosara_merging_2018]. 
 
-## Expectations
+## Results
 
 For aim 1, we seek to elucidate the ideal culture media, substrate, and supplement combination that extend the longevity and proliferation of primary cultures of _B. schlosseri_ beyond previously documented maximums. Maintaining sterile primary cultures of any cell strain for long periods of time _in vitro_ increases the probability of spontaneous immortalization [@gardell_derivation_2014]. For aim 2, we are aiming to facilitate adaptive stress-induced evolution of _B. schlosseri_ primary culture cell populations towards phenotypes more capable of enduring _in vitro_ conditions and thus enhances the potential for cell immortalization. Through functional enrichment and network analysis we expect to identify gene and proteome networks that underlie the successful cellular transition to the _in vitro_ context which may then inform further synthetic biological approaches that specifically target genes critical to cellular immortalization if cells do not spontaneously immortalize within the context of this project.
 
-## Intellectual merit
+## Interpretation
+
+
+## Significance
+
 To date, there are no cell lines available from any marine invertebrate species despite decades of extensive research efforts [@cai_marine_2014; @rinkevich_marine_2005; @domart-coulon_primary_2022]. Much of the published work relating to marine invertebrate primary cultures focuses on applied aspects such as ecotoxicology [@yoshino_molluscan_2013; @rosner_stem_2021; @ladhar-chaabouni_cell_2016]. As such, there has not been a sustained effort towards synthesizing an understanding of the _in vitro_ requirements of marine invertebrate cells [@domart-coulon_primary_2022; @rinkevich_cell_2011]. Although marine invertebrates are a highly diverse group, establishment of a clear primary culture methodology for any marine invertebrate would be of great value across species. This possibility is best exemplified by the breakthrough in _in vitro_ cell culturing conditions for insects [@grace_establishment_1962], which has since given rise to nearly 1000's of insect cell lines within the span of 50 years [@domart-coulon_primary_2022]. Additionally, in utilizing -omics analyses in our process of _B. schlosseri_ cell line development we are integrating a novel yet critical component that departs from earlier cell line development work conducted on this species.
 
-## Broader impacts
+
 Marine invertebrates are of interest as potential "bioreactors" [@romano_biomaterials_2022]. Therefore, the establishment of cell lines from marine invertebrates would serve as a means to sustainably harvest bioactive compounds which could be of use commercially across several fields such as pharmaceuticals, cosmetics, biomaterials, and more. Furthermore, the continued global worsening of perturbations within coastal ecosystems as a result of anthropogenic activity, necessitates
 methods of rapid and high-throughput _in vitro_ screening. The generation of a _B. schlosseri_ cell line would represent a powerful high-throughput tool in identifying molecular responses that predict adverse outcomes to anthropogenic stressors such as those resulting from marine contaminants and climate change.
+
+
+## Timeline
+
+
 
 # References
