@@ -33,6 +33,19 @@ This draft is version `r paste0('0.',format(Sys.time(), '%y.%m.%d'))`.
 
 ## Introduction
 
+### Study Species
+
+_Botryllus schlosseri_ is an invasive marine colonial tunicate presently inhabiting the shallow and temperate coastal zones of all continents except Antarctica [@zwahlen_long-term_2022]. Mature colonies are comprised of clonal individuals (zooids), embedded in a common tunic and organized into star-shaped systems [@manni_sixty_2019]. Specifically, through blastogenesis, three asexually derived generations are concurrently present within a colony: the actively filter-feeding adult zooids, their developing buds (primary buds), and the  budlets emerging from the primary buds (secondary buds). Progression of blastogenesis, occurs on a cyclical and weekly basis at 19-18 °C [@manni_sixty_2019]. Complete generational turnover is marked by an apoptotic and autophagic event in which the adult zooids are synchronously resorbed as the primary bud completes organogenesis and opens its incurrent siphon, assuming the role of adult zooid [@ricci_identification_2016]. 
+
+The blastogenic stage prior to the opening of the siphon on the priamry bud is termed stage D and is important in the previous iterations of epithelial primary cell culture work for this species. Explant cultures of primary buds seeded in stage D produce the highest primary epithelial cell yields with a reported 20% monolayer formation rate relative to the same explanted tissue type at earlier blastogenic stages [rabinowitz_epithelial_2004]. The reason for this is not known but may be a result of increased stemness (CHECK this).
+
+
+This species of tunicate is of significant interest as an experimental model system in the fields of cell biology, immunology, and developmental biology.
+
+\vspace{0.1in}
+
+### "Abstract" Cell Biology
+
 - General lack of marine invertebrate cell lines. [@domart-coulon_primary_2022]
 
 - Exception is sponge cell line.
@@ -40,13 +53,13 @@ This draft is version `r paste0('0.',format(Sys.time(), '%y.%m.%d'))`.
 
 Cellular homeostasis acts by maintaining the integrity of the internal environment in the response to environmental fluctuations. If perturbations of the extracellular environment occur at a magnitude or rate beyond the capacity of homeostasis, the cellular stress response is induced. The cellular stress response describes a set of physiological mechanisms associated with rapid generation of phenotypes capable of withstanding extreme stress.  
 
-As such, through an evolutionary lense, this can be refered to as stress-induced evolution
+As such, through an evolutionary lens, this can be referred to as stress-induced evolution
 
 
 Genome reorganization events that occur with macromolecular damage, genome chaos, and DNA repair infidelity are stress-induced adaptive evolutionary strategies that promote cell survival during periods of extreme stress [@liu_genome_2014; @rosenberg_stressinduced_2012; @kultz_molecular_2005; @kultz_evolution_2020].
 
 
-ROUGH OUTLINE:
+### ROUGH ROUGH OUTLINE AND FACTS:
 
 - talk about homeostasis
 
@@ -61,17 +74,13 @@ ROUGH OUTLINE:
 - particularly this can occur through dna methylatio, increasdeed mustation rates
 chromoanagenesis, 
 
+- Tunicates are marine invertebrates and the the sister group of vertebrates  [@delsuc_phylogenomic_2018]. 
+
  
 
 
-
-
-
 Removal from the _in vivo_ context presents somatic cells with severe stress that likely induces several methods of genome transformation which then are directionally selected for their ability to proliferate _in vitro_ [@liu_genome_2014]. 
-
 Utilizing this framework of stress-induced cellular evolution, this project aims towards promoting
-
-
 an immortalized cell line from somatic cells of the marine tunicate, _Botryllus schlosseri_.
 
 \vspace{0.1in}
@@ -81,9 +90,10 @@ an immortalized cell line from somatic cells of the marine tunicate, _Botryllus 
 \vspace{0.1in}
 
 
-_B. schlosseri_ is a cosmopolitan, sessile, colonial species currently found in the shallow, temperate, coastal areas of all continents except Antarctica [@zwahlen_long-term_2022]. Each mature colony of _B. schlosseri_ is composed of genetically identical modules, termed zooids, that are embedded in a gelatinous tunic and share a single vasculature system [@manni_sixty_2019]. _B. schlosseri_ colonies begin life as free-swimming larva that settle and metamorphoses into a single founding oozooid. Through blastogenesis, new blastozooids develop and are organized into a colonial star-shaped system. Over the course of its life, a healthy _B. schlosseri_ colony will undergo weekly blastogenic cycles, where parental zooids are synchronously reabsorbed and replaced with a new set of blastozooids [@ricci_identification_2016; @manni_sixty_2019]. This species of _Botryllus_ is of significant interest as an experimental model system in the fields of cell biology, immunology, and developmental biology due to its tightly regulated blastogenic cycle, close phylogenetic relation to vertebrates, and ease of rearing individuals in a lab setting.
 
-\vspace{0.1in}
+
+
+### Epithelial work
 
 Previous work exploring _B. schlosseri_ cell line development isolated primary cell cultures from the epithelial and blood tissue of lab-reared colonies [@rabinowitz_epithelial_2004; @rabinowitz_novo_2011; @rabinowitz_further_2009; @rinkevich_vitro_1993; @rinkevich_initiation_1997].
 
